@@ -1,2 +1,3 @@
-# streaming-np
-Plataforma streaming para videos y música. 
+# streamingnp_commons2
+
+A new Flutter project.
